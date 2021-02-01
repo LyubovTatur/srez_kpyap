@@ -1,0 +1,10 @@
+A:\repositories\srez_kpyap\srez\srez\bin\Debug\srez.exe.config
+A:\repositories\srez_kpyap\srez\srez\bin\Debug\srez.exe
+A:\repositories\srez_kpyap\srez\srez\bin\Debug\srez.pdb
+A:\repositories\srez_kpyap\srez\srez\bin\Debug\LubochkinaLibochka.dll
+A:\repositories\srez_kpyap\srez\srez\bin\Debug\LubochkinaLibochka.pdb
+A:\repositories\srez_kpyap\srez\srez\obj\Debug\srez.csprojAssemblyReference.cache
+A:\repositories\srez_kpyap\srez\srez\obj\Debug\srez.csproj.CoreCompileInputs.cache
+A:\repositories\srez_kpyap\srez\srez\obj\Debug\srez.csproj.CopyComplete
+A:\repositories\srez_kpyap\srez\srez\obj\Debug\srez.exe
+A:\repositories\srez_kpyap\srez\srez\obj\Debug\srez.pdb

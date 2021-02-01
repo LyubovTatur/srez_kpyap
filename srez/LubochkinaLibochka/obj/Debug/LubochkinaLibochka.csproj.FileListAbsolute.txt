@@ -1,0 +1,6 @@
+A:\repositories\srez_kpyap\srez\LubochkinaLibochka\bin\Debug\LubochkinaLibochka.dll
+A:\repositories\srez_kpyap\srez\LubochkinaLibochka\bin\Debug\LubochkinaLibochka.pdb
+A:\repositories\srez_kpyap\srez\LubochkinaLibochka\obj\Debug\LubochkinaLibochka.csprojAssemblyReference.cache
+A:\repositories\srez_kpyap\srez\LubochkinaLibochka\obj\Debug\LubochkinaLibochka.csproj.CoreCompileInputs.cache
+A:\repositories\srez_kpyap\srez\LubochkinaLibochka\obj\Debug\LubochkinaLibochka.dll
+A:\repositories\srez_kpyap\srez\LubochkinaLibochka\obj\Debug\LubochkinaLibochka.pdb
